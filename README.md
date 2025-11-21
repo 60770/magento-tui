@@ -124,7 +124,7 @@ Contributions are welcome! Please open an issue or submit a pull request on GitH
 
 ## 📄 License
 
-MIT License. See [LICENSE](LICENSE) for details.
+Proprietary. Copyright (c) Tidycode S.r.l. All rights reserved.
 ## Tecnologie
 
 - **php-tui/php-tui** v0.2.1 - Framework TUI
