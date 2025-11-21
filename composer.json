@@ -1,0 +1,26 @@
+{
+    "name": "tidycode/module-tui",
+    "description": "Terminal User Interface for Magento 2 Backend Management",
+    "type": "magento2-module",
+    "version": "1.0.0",
+    "license": "proprietary",
+    "authors": [
+        {
+            "name": "Tidycode",
+            "email": "info@tidycode.com"
+        }
+    ],
+    "require": {
+        "php": "~8.1.0||~8.2.0||~8.3.0",
+        "magento/framework": "*",
+        "php-tui/php-tui": "^0.2.1"
+    },
+    "autoload": {
+        "files": [
+            "registration.php"
+        ],
+        "psr-4": {
+            "Tidycode\\TUI\\": ""
+        }
+    }
+}
