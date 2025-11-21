@@ -1,4 +1,4 @@
-# A powerful, interactive Terminal User Interface (TUI) for managing Magento 2 instances directly from the command line. Built with `php-tui/php-tui`, this module provides a rich, dashboard-like experience for developers and system administrators, eliminating the need to remember complex CLI commands.
+#### A powerful, interactive Terminal User Interface (TUI) for managing Magento 2 instances directly from the command line. Built with `php-tui/php-tui`, this module provides a rich, dashboard-like experience for developers and system administrators, eliminating the need to remember complex CLI commands.
 
 ## 🚀 Features
 
